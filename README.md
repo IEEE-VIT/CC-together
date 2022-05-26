@@ -23,7 +23,8 @@ This repository contains the solutions to CC questions and contests solved by IE
 ## Getting Started
 
 To get started:
-
+-   Fork the repo.
+    `git clone https://github.com/github-username/CC-together`
 -   Clone the repo.
     `git clone https://github.com/IEEE-VIT/CC-together`
 -   Checkout to a new branch.
