@@ -14,4 +14,4 @@ class Solution:
                     break
             if c!=0:
                 ls.append(True)
-        return ls           
+        return ls    
