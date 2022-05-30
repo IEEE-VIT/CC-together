@@ -7,7 +7,7 @@ This document contains certain rules and guidelines that developers are expected
 ## 1. File system
 
 -   Problem of the day questions have a folder called ```POD``` with week wise folders inside.
-    -   For example: POD/Week6-DynamicProgramming/Q1
+    -   For example: POD/Week6-DynamicProgramming/day1
 - External contests contribution can be pushed under the ```Biweekly Contests``` in the respective folders with named as Platform name followed by Contest name and question.
     - For example: CodeForces/Codeforces Round #729 (Div. 2)/A_Odd_Set
 - Same with the Weekly contest as well under ```Weekly Contests``` 
